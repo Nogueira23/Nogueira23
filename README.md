@@ -1,6 +1,6 @@
 ### Hello, my name is João Victor! Welcome to my GitHub!!!
 
-## Sobre:
+## About:
 
 * :grin: I'm a passinate for technological innovations, especially those that ar socially impactful.
 * :rocket: i like natural sciences
