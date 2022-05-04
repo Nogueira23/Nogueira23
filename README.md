@@ -10,7 +10,7 @@
 
 ### Contact:
 <div style="display: flex; flex-wrap: wrap;">
-<a href="https://www.linkedin.com/in/joão-victor-nogueira-82149b20b/" ><img alt="Linkedin João Victor | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jvnogueira23/" ><img alt="Linkedin João Victor | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://api.whatsapp.com/send?phone=5585996208564"><img alt="Whatsapp João Victor" width="100px" src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
 <a href="mailto:jvictor.n.m23@gmail.com" ><img alt="E-mail João Victor" width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
