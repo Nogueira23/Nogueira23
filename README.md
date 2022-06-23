@@ -23,6 +23,7 @@
 <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/language-blue?style=for-the-badge&logo=C&logoColor=white" />
+<img  src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
 
 <br/><br/><br/>
